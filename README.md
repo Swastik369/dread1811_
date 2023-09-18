@@ -1,3 +1,14 @@
+<div align="center">
+	<br>
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	<br>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 Hi, I am dread a self-taught web and AOSP developer. I make clean and aesthetic websites and also make device trees for mobiles and develop AOSP roms.
 i take great care in the experience, architecture, and code quality of the things I build.
 
