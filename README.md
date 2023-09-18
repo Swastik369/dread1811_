@@ -51,11 +51,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br>
 <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
 
-📊 **this week i spent my time on:**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <!--
 **dreAd1811/dread1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
