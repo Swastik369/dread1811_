@@ -8,15 +8,10 @@
 <br>
 <br>
 <br>
-<br>
 
-<div align="center">
-	<br>
-		<img src="body.svg" width="800" height="400">
-	<br>
-</div>
+Hi, I am dread a self-taught web and AOSP developer. I make clean and aesthetic websites and also make device trees for mobiles and develop AOSP roms. i take great care in the experience, architecture, and code quality of the things I build.
 
-<br>
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <br>
 <br>
 <br>
