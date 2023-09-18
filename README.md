@@ -9,11 +9,16 @@
 <br>
 <br>
 
-Hi, I am dread a self-taught web and AOSP developer. I make clean and aesthetic websites and also make device trees for mobiles and develop AOSP roms.
-i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
+<div align="center">
+	<br>
+		<img src="body.svg" width="800" height="400">
+	<br>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dread1811&show_icons=true&theme=gotham" alt="dread1811" />
 
