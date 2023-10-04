@@ -19,6 +19,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dread1811&show_icons=true&theme=gotham" alt="dread1811" />
 
+<br>
+<br>
+
+<img src="https://holopin.me/dread1811"/>
+
 **I use -**
 <br><br>
 <img src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white" />
